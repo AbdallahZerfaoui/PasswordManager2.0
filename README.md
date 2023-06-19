@@ -29,7 +29,7 @@ This is a simple password manager application built using Python and Tkinter. It
 
 ## Screenshots
 
-![Password Manager](screenshot.png)
+![Password Manager](screenshot.jpg)
 
 ## License
 
